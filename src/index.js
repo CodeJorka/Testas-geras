@@ -1,0 +1,26 @@
+import "./assets/styles/app.scss";
+import "./assets/images/shopping_cart-24px.svg";
+import "./assets/images/bg-1.jpg";
+import "./assets/images/blanket_1.jpg";
+import "./assets/images/blanket_2.jpg";
+import "./assets/images/blanket_3.jpg";
+import "./assets/images/blanket_4.jpg";
+import "./assets/images/blanket_5.jpg";
+import "./assets/images/blanket_6.jpg";
+import "./assets/images/blanket_7.jpg";
+import "./assets/images/blanket_8.jpg";
+import "./assets/images/blanket_9.jpg";
+import "./assets/images/blanket_10.jpg";
+import "./assets/images/cotton.svg";
+import "./assets/images/leaves.svg";
+import "./assets/images/tears.svg";
+import "./assets/images/wash.svg";
+
+import "./assets/images/Twitter.svg";
+import "./assets/images/Crayon_icon.png";
+import "./assets/images/Fb.svg";
+import "./assets/images/Flag-icon.png";
+import "./assets/images/Mail.svg";
+import "./assets/images/LinkedIn.svg";
+import "./assets/images/Rocket_icon.png";
+import "./index.hbs";
